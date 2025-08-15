@@ -9,7 +9,7 @@ AI Code Reviewer, Python dosyalarınızı yapay zeka (LLM) ile analiz ederek **h
 
 - ✅ Python dosyalarını yükleyerek analiz etme
 - 🤖 LLaMA 3.2 LLM ile kod gözden geçirme
-- 💡 Hatalar, kod kokuları, iyileştirme önerileri
+- 💡 Hatalar iyileştirme önerileri
 - 📥 İnceleme çıktısını `.txt` dosyası olarak indirme
 - 🌐 Streamlit tabanlı web arayüzü
 
